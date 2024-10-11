@@ -39,12 +39,10 @@ We download the released the [IA3 checkpoints](https://drive.google.com/drive/fo
 Please cite our paper if you use our models in your works:
 
 ```bibtex
-@misc{du2024pcb-merging,
-      title={Parameter Competition Balancing for Model Merging}, 
-      author={Guodong Du and Junlin Lee and Jing Li and Runhua Jiang and Yifei Guo and Shuyang Yu and Hanting Liu and Sim Kuan Goh and Ho-Kin Tang and Daojing He and Min Zhang},
-      year={2024},
-      eprint={2410.02396},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2410.02396}, 
+@inproceedings{guodong24neurips,
+  title={Parameter Competition Balancing for Model Merging},
+    author = {Guodong Du and
+    Junlin Lee and Jing Li  and Runhua Jiang and Yifei Guo and Shuyang Yu and Hanting Liu and Sim Kuan Goh and Ho-Kin Tang and Daojing He and Min Zhang},
+  booktitle = {The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS)},
+  year={2024}
 }
